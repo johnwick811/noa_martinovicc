@@ -12,8 +12,11 @@ p {
 .novi_blok {
 	background-color: rgba(255, 255, 255, 0.9);
 	padding:22px;
-	margin: 20px;
-	width:55%;
+	margin: 20px 0;
+	width: 800px;
+}
+.novi_blok p {
+	width: auto;
 }
 h1, h2 {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
